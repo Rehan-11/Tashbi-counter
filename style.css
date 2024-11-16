@@ -6,12 +6,20 @@ body{
     background-color: aqua;
 }
 h1{
-    margin:10vh;
+    margin-top:10vh;
     text-align: center;
 }
-.decrement{
-    margin: 19vh;
+
+
+.wholebox{
+    margin-top: 10vh;
+    border-radius: 13px;
+    background-color: white;
+    width:100%;
+    align-items: center;
+    text-align: center;
 }
-.increment{
-                  qq..........................................................................................................................................................................................................................................    margin: vh;
+.tashbi{
+    font-size: 500%;
+    color: cadetblue;
 }
